@@ -1,0 +1,8 @@
+﻿  TheZombieBusters.cpp
+E:\My Drive\Undergraduate\2nd Year\4th Semester\CNG 242\Assignment 4\TheZombieBusters\fight.h(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\My Drive\Undergraduate\2nd Year\4th Semester\CNG 242\Assignment 4\TheZombieBusters\Grid.h(35,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\My Drive\Undergraduate\2nd Year\4th Semester\CNG 242\Assignment 4\TheZombieBusters\Grid.h(92,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\My Drive\Undergraduate\2nd Year\4th Semester\CNG 242\Assignment 4\TheZombieBusters\entity.h(197): warning C4715: 'Entity::battle': not all control paths return a value
+E:\My Drive\Undergraduate\2nd Year\4th Semester\CNG 242\Assignment 4\TheZombieBusters\Grid.h(449): warning C4715: 'Grid::getChiconne': not all control paths return a value
+E:\My Drive\Undergraduate\2nd Year\4th Semester\CNG 242\Assignment 4\TheZombieBusters\Grid.h(436): warning C4715: 'Grid::getDerick': not all control paths return a value
+  TheZombieBusters.vcxproj -> E:\My Drive\Undergraduate\2nd Year\4th Semester\CNG 242\Assignment 4\TheZombieBusters\Debug\TheZombieBusters.exe
